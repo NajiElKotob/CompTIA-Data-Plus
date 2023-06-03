@@ -8,7 +8,8 @@
 ## Data Concepts and Environments
 ### Identify basic concepts of data schemas and dimensions
 #### Databases
-
+* Relational
+* Non-relational
 
 
 ### Compare and contrast different data types
