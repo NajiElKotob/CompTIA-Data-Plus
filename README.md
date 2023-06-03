@@ -7,6 +7,7 @@
 ## Data Concepts and Environments
 ### Identify basic concepts of data schemas and dimensions
 ### Compare and contrast different data types
+### Compare and contrast common data structures and file formats
 ## Data Mining
 ## Data Analysis
 ## Visualization
