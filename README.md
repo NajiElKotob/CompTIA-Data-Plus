@@ -10,8 +10,9 @@
 #### Databases
 * Relational
 * Non-relational
-
-
+#### Schema concepts
+* Snowflake
+* Star
 ### Compare and contrast different data types
 ### Compare and contrast common data structures and file formats
 -----
