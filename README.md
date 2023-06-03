@@ -11,8 +11,8 @@
 * Relational
 * Non-relational
 #### Schema concepts
-* Snowflake
-* Star
+`Snowflake | Star`
+* [Star Schema vs Snowflake Schema: Key Differences Between The Two](https://www.simplilearn.com/star-schema-vs-snowflake-schema-article) - simplilearn.com
 ### Compare and contrast different data types
 ### Compare and contrast common data structures and file formats
 -----
