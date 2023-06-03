@@ -5,6 +5,7 @@
 
 # Domains
 ## Data Concepts and Environments
+### Identify basic concepts of data schemas and dimensions
 ## Data Mining
 ## Data Analysis
 ## Visualization
