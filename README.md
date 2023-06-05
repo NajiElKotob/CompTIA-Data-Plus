@@ -44,3 +44,4 @@
 * NoSQL Not Only Structured Query Language
 * OLAP Online Analytical Processing
 * OLTP Online Transaction Processing
+* P&L Profit and Loss
