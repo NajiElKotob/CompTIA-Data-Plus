@@ -35,3 +35,4 @@
 * CSV Comma-separated Values
 * ELT Extract, Load, Transform
 * ETL Extract, Transform, Load
+* FAQs Frequently Asked Questions
