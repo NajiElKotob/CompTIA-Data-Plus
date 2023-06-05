@@ -46,3 +46,4 @@
 * OLTP Online Transaction Processing
 * P&L Profit and Loss
 * PCI Payment Card Industry
+* PDF Portable Document Format
