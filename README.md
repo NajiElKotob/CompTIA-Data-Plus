@@ -52,3 +52,4 @@
 * RDBMS Relational Database Management System
 * SDLC Software Development Life Cycle
 * SQL Structured Query Language
+* XML Extensible Markup Language
