@@ -32,3 +32,4 @@
 * AWS Amazon Web Services
 * BI Business Intelligence
 * CRM Customer Relationship Management
+* CSV Comma-separated Values
