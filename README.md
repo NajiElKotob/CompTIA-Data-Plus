@@ -39,3 +39,4 @@
 * GDPR General Data Protection Regulation
 * HTML Hypertext Markup Language
 * JSON JavaScript Object Notation
+* KPI Key Performance Indicator
