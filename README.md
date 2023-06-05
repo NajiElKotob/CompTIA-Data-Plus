@@ -45,3 +45,4 @@
 * OLAP Online Analytical Processing
 * OLTP Online Transaction Processing
 * P&L Profit and Loss
+* PCI Payment Card Industry
