@@ -41,3 +41,4 @@
 * JSON JavaScript Object Notation
 * KPI Key Performance Indicator
 * MDM Master Data Management
+* NoSQL Not Only Structured Query Language
