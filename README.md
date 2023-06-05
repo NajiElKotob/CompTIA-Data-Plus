@@ -37,3 +37,4 @@
 * ETL Extract, Transform, Load
 * FAQs Frequently Asked Questions
 * GDPR General Data Protection Regulation
+* HTML Hypertext Markup Language
