@@ -49,3 +49,4 @@
 * PDF Portable Document Format
 * PHI Personal Health Information
 * PII Personally Identifiable Information
+* RDBMS Relational Database Management System
