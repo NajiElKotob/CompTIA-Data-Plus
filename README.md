@@ -33,3 +33,5 @@
 * BI Business Intelligence
 * CRM Customer Relationship Management
 * CSV Comma-separated Values
+* ELT Extract, Load, Transform
+* ETL Extract, Transform, Load
