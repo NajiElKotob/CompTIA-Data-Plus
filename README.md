@@ -51,3 +51,4 @@
 * PII Personally Identifiable Information
 * RDBMS Relational Database Management System
 * SDLC Software Development Life Cycle
+* SQL Structured Query Language
