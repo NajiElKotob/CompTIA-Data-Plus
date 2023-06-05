@@ -30,3 +30,4 @@
 * ANOVA Analysis of Variance
 * API Application Programming Interface
 * AWS Amazon Web Services
+* BI Business Intelligence
