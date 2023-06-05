@@ -28,3 +28,4 @@
 
 ## Acronyms
 * ANOVA Analysis of Variance
+* API Application Programming Interface
