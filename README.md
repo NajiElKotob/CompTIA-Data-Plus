@@ -23,3 +23,8 @@
 ## Visualization
 -----
 ## Data Governance, Quality, and Controls
+
+-----
+
+## Acronyms
+* ANOVA Analysis of Variance
