@@ -50,3 +50,4 @@
 * PHI Personal Health Information
 * PII Personally Identifiable Information
 * RDBMS Relational Database Management System
+* SDLC Software Development Life Cycle
