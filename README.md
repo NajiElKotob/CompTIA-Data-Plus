@@ -38,3 +38,4 @@
 * FAQs Frequently Asked Questions
 * GDPR General Data Protection Regulation
 * HTML Hypertext Markup Language
+* JSON JavaScript Object Notation
