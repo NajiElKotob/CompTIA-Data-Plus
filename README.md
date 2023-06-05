@@ -36,3 +36,4 @@
 * ELT Extract, Load, Transform
 * ETL Extract, Transform, Load
 * FAQs Frequently Asked Questions
+* GDPR General Data Protection Regulation
