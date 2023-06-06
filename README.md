@@ -23,6 +23,10 @@
 ## Visualization
 -----
 ## Data Governance, Quality, and Controls
+### Summarize important data governance concepts
+#### Security requirements
+`Data encryption | Data transmission | De-identify data/data masking`
+* [Guidelines for Media Sanitization](https://csrc.nist.gov/publications/detail/sp/800-88/rev-1/final) - nist.gov
 
 -----
 
