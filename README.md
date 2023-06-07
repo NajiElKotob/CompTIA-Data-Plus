@@ -8,6 +8,7 @@
 # Domains
 -----
 ## Data Concepts and Environments
+* **Delta load** is the process of extracting only the new data added to a table since the last successful load. 
 ### Identify basic concepts of data schemas and dimensions
 #### Databases
 * Relational
