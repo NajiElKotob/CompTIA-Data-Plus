@@ -35,6 +35,11 @@
    *  Business Classification: Public, Internal, Sensitive, Highly Sensitive
    *  Military Classifiation: Unclassified, Classified, Secret, Top Secret
 
+### Given a scenario, apply data quality control concepts
+#### Automated Validation
+* The **number of data points** is simply a count of all the measurements or observations within your data set. This is an important concept in statistical analysis, where the number of data points can affect everything from the reliability of your results to the types of analysis you can perform.
+
+
 -----
 
 ## Acronyms
