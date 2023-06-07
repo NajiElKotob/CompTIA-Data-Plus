@@ -22,6 +22,7 @@
 ### Explain data acquisition concepts
 #### Integration
 * **Delta load** is the process of extracting only the new data added to a table since the last successful load. 
+#### Data collection methods
 
 ### Identify common reasons for cleansing and profiling datasets
 * Missing Values
