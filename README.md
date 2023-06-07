@@ -19,6 +19,12 @@
 ### Compare and contrast common data structures and file formats
 -----
 ## Data Mining
+### Explain data acquisition concepts
+### Identify common reasons for cleansing and profiling datasets
+* [Concepts of MCAR, MAR and MNAR](https://stefvanbuuren.name/fimd/sec-MCAR.html) - stefvanbuuren.name
+### Given a scenario, execute data manipulation techniques
+### Explain common techniques for data manipulation and query optimization
+
 -----
 ## Data Analysis
 -----
