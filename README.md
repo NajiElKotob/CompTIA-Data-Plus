@@ -23,6 +23,12 @@
 #### Integration
 * **Delta load** is the process of extracting only the new data added to a table since the last successful load. 
 #### Data collection methods
+* Web Scraping: This is a method used to extract data from websites. It involves making HTTP requests to the URLs you want to scrape, and then parsing the HTML response to retrieve the data you're interested in.
+* Public Databases: These are databases that are openly available for anyone to access and use. They can contain a wide variety of data, from demographic information to scientific data.
+* Application Programming Interface (API)/Web Services: APIs are a set of rules and protocols for how software applications should interact with each other. Web services are a type of API, typically operating over HTTP, that allow different software systems to communicate with each other over the internet.
+* Survey: A method of collecting data directly from individuals. This usually involves asking a series of questions and recording the responses. Surveys can be conducted in various ways, including online, over the phone, or in person.
+* Sampling: This is a statistical method that involves selecting a subset of individuals from a larger population, in order to estimate characteristics of the whole population.
+* Observation: This is a method of collecting data by watching and recording behaviors or events. It can be done in natural settings or in more controlled conditions, and may involve no interaction with the subjects being observed, or active participation by the observer.
 
 ### Identify common reasons for cleansing and profiling datasets
 * Missing Values
