@@ -8,7 +8,6 @@
 # Domains
 -----
 ## Data Concepts and Environments
-* **Delta load** is the process of extracting only the new data added to a table since the last successful load. 
 ### Identify basic concepts of data schemas and dimensions
 #### Databases
 * Relational
@@ -21,6 +20,9 @@
 -----
 ## Data Mining
 ### Explain data acquisition concepts
+#### Integration
+* **Delta load** is the process of extracting only the new data added to a table since the last successful load. 
+
 ### Identify common reasons for cleansing and profiling datasets
 * Missing Values
    *  [Concepts of MCAR, MAR and MNAR](https://stefvanbuuren.name/fimd/sec-MCAR.html) - stefvanbuuren.name
