@@ -42,7 +42,7 @@
 ### Explain master data management (MDM) concepts
 #### Processes
 * A **data dictionary** is a centralized repository of information about data, such as its meaning, relationships to other data, origin, usage, and format. It serves as a catalog or a guide to understanding what data is in a system, how it is organized, and how it is used.
-
+* **"Standardization of data field names"** is a data management practice that involves creating a consistent format for naming data fields across a database or a collection of datasets. It ensures that the same type of information is always referred to by the same name and format. For example, one dataset might use "DOB" as a field name to indicate a person's date of birth, while another dataset might use "BirthDate". Standardizing these field names across all datasets might involve deciding to always use "DateOfBirth" for this information. This makes it immediately clear what information is contained in that field, regardless of which dataset you're looking at.
 
 
 -----
