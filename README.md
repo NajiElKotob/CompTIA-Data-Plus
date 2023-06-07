@@ -6,7 +6,7 @@
 * [How To Study for CompTIA Data+](https://www.comptia.org/blog/how-to-study-for-comptia-data)
 
 # Domains
------
+
 ## Data Concepts and Environments
 ### Identify basic concepts of data schemas and dimensions
 #### Databases
