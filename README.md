@@ -27,6 +27,8 @@
 #### Security requirements
 `Data encryption | Data transmission | De-identify data/data masking`
 * [Guidelines for Media Sanitization](https://csrc.nist.gov/publications/detail/sp/800-88/rev-1/final) - nist.gov
+* [Security Breach Notification Laws](https://www.ncsl.org/technology-and-communication/security-breach-notification-laws) - ncsl.org
+
 
 -----
 
