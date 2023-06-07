@@ -32,8 +32,8 @@
 #### Entity relationship requirements
 *  The [cardinality](https://www.thedataschool.co.uk/eamonn-woodham/high-cardinality-vs-low-cardinality/) of a column refers to the number of distinct values that the column can take on. A column with high cardinality has a large number of distinct values, while a column with low cardinality has a small number of distinct values.
 *  Data classification
-  *  Business Classification: Public, Internal, Sensitive, Highly Sensitive
-  *  Military Classifiation: Unclassified, Classified, Secret, Top Secret
+   *  Business Classification: Public, Internal, Sensitive, Highly Sensitive
+   *  Military Classifiation: Unclassified, Classified, Secret, Top Secret
 
 -----
 
