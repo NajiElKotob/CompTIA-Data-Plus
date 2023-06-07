@@ -3,6 +3,7 @@
 ## CompTIA
 * [CompTIA Data+](https://www.comptia.org/certifications/data) - comptia.org
 * [Create Your Study Plan NOW!](https://certs.comptia.org/trainingchecklist/)
+* [How To Study for CompTIA Data+](https://www.comptia.org/blog/how-to-study-for-comptia-data)
 
 # Domains
 -----
