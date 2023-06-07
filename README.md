@@ -21,7 +21,10 @@
 ## Data Mining
 ### Explain data acquisition concepts
 ### Identify common reasons for cleansing and profiling datasets
-* [Concepts of MCAR, MAR and MNAR](https://stefvanbuuren.name/fimd/sec-MCAR.html) - stefvanbuuren.name
+* Missing Values
+   *  [Concepts of MCAR, MAR and MNAR](https://stefvanbuuren.name/fimd/sec-MCAR.html) - stefvanbuuren.name
+   * In statistics and data science, replacing missing values with the mean value of the remaining data in the variable is a form of **imputation**, which is a general term for techniques used to estimate and replace missing data with substituted values. 
+   * **Capping** in the context of data analysis is a method used to limit or "cap" extreme values in a dataset in order to reduce the impact of outliers. This method is also known as "winsorizing" or "truncation".
 ### Given a scenario, execute data manipulation techniques
 ### Explain common techniques for data manipulation and query optimization
 
