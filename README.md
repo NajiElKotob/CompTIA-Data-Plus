@@ -39,6 +39,11 @@
 #### Automated Validation
 * The **number of data points** is simply a count of all the measurements or observations within your data set. This is an important concept in statistical analysis, where the number of data points can affect everything from the reliability of your results to the types of analysis you can perform.
 
+### Explain master data management (MDM) concepts
+#### Processes
+* A **data dictionary** is a centralized repository of information about data, such as its meaning, relationships to other data, origin, usage, and format. It serves as a catalog or a guide to understanding what data is in a system, how it is organized, and how it is used.
+
+
 
 -----
 
