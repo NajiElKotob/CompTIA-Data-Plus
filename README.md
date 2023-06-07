@@ -15,6 +15,10 @@
 #### Schema concepts
 `Snowflake | Star`
 * [Star Schema vs Snowflake Schema: Key Differences Between The Two](https://www.simplilearn.com/star-schema-vs-snowflake-schema-article) - simplilearn.com
+
+#### Slowly changing dimensions
+* Slowly Changing Dimensions (SCDs) are a concept in data warehousing that refers to the ways in which data in a dimension table changes over time. These dimensions don't change frequently, but when they do, there needs to be a way to manage and track these changes. For example, a customer's address might change, or a product's price might vary over time. The term "slowly changing dimension" was developed to help data warehouse designers track these historical changes in data over time. There are various strategies to handle SCDs, typically referred to as Type 0 through Type 6, each offering different methods for managing historical data changes.
+
 ### Compare and contrast different data types
 ### Compare and contrast common data structures and file formats
 -----
