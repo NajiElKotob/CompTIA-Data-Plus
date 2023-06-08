@@ -10,8 +10,8 @@
 ## 1.0 Data Concepts and Environments
 ### 1.1 Identify basic concepts of data schemas and dimensions
 #### Databases
-* Relational
-* Non-relational
+* Relational: Relational databases store data in a structured way with tables of rows and columns. Each table, which represents an entity type, has a key that makes each row (or record) unique. The 'relational' aspect comes from the ability to link information from different tables through the use of foreign keys, which are identifiers that establish a link between two tables. Examples of relational databases include MySQL, PostgreSQL, and Oracle Database.
+* Non-relational: Non-relational databases, often called NoSQL databases, are more flexible than relational databases because they don't require a fixed schema and they scale more easily. They store data in a variety of ways: it can be column-oriented, document-oriented, graph-based or organized as a KeyValue store. This flexibility can make them a good choice for high-velocity, complex, and variable data. Examples include MongoDB (document-oriented), Cassandra (column-oriented), and Neo4j (graph-based).
 #### Schema concepts
 `Snowflake | Star`
 * [Star Schema vs Snowflake Schema: Key Differences Between The Two](https://www.simplilearn.com/star-schema-vs-snowflake-schema-article) - simplilearn.com
