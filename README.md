@@ -152,12 +152,14 @@ Derived Variables: These are new variables created from existing ones, typically
 -----
 ## 4.0 Visualization
 ### 4.1 Given a scenario, translate business requirements to form a report
-### 4.2 
-### 4.3 
+### 4.2 Given a scenario, use appropriate design components for reports and dashboards
+### 4.3 Given a scenario, use appropriate methods for dashboard development
+### 4.4 Given a scenario, apply the appropriate type of visualization
+### 4.5 Compare and contrast types of reports
 
 -----
 ## 5.0 Data Governance, Quality, and Controls
-### Summarize important data governance concepts
+### 5.1 Summarize important data governance concepts
 #### Security requirements
 `Data encryption | Data transmission | De-identify data/data masking`
 * [Guidelines for Media Sanitization](https://csrc.nist.gov/publications/detail/sp/800-88/rev-1/final) - nist.gov
@@ -169,11 +171,11 @@ Derived Variables: These are new variables created from existing ones, typically
    *  Business Classification: Public, Internal, Sensitive, Highly Sensitive
    *  Military Classifiation: Unclassified, Classified, Secret, Top Secret
 
-### Given a scenario, apply data quality control concepts
+### 5.2 Given a scenario, apply data quality control concepts
 #### Automated Validation
 * The **number of data points** is simply a count of all the measurements or observations within your data set. This is an important concept in statistical analysis, where the number of data points can affect everything from the reliability of your results to the types of analysis you can perform.
 
-### Explain master data management (MDM) concepts
+### 5.3 Explain master data management (MDM) concepts
 #### Processes
 * A **data dictionary** is a centralized repository of information about data, such as its meaning, relationships to other data, origin, usage, and format. It serves as a catalog or a guide to understanding what data is in a system, how it is organized, and how it is used.
 * **"Standardization of data field names"** is a data management practice that involves creating a consistent format for naming data fields across a database or a collection of datasets. It ensures that the same type of information is always referred to by the same name and format. For example, one dataset might use "DOB" as a field name to indicate a person's date of birth, while another dataset might use "BirthDate". Standardizing these field names across all datasets might involve deciding to always use "DateOfBirth" for this information. This makes it immediately clear what information is contained in that field, regardless of which dataset you're looking at.
