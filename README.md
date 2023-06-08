@@ -100,6 +100,8 @@ Derived Variables: These are new variables created from existing ones, typically
 
 
 ### 2.4 Explain common techniques for data manipulation and query optimization
+#### Data manipulation
+#### Query optimization
 
 -----
 ## 3.0 Data Analysis
