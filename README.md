@@ -7,7 +7,7 @@
 
 # Domains
 
-## Data Concepts and Environments
+## 1.0 Data Concepts and Environments
 ### Identify basic concepts of data schemas and dimensions
 #### Databases
 * Relational
@@ -24,7 +24,7 @@
 ### Compare and contrast different data types
 ### Compare and contrast common data structures and file formats
 -----
-## Data Mining
+## 2.0 Data Mining
 ### Explain data acquisition concepts
 #### Integration
 * Extract, Transform, Load (ETL): This is a process in data warehousing. First, data is extracted from homogeneous or heterogeneous data sources. Next, it's transformed to fit operational needs (which can involve cleaning, aggregating, and organizing the data). Finally, it's loaded into the end target (database, more specifically, operational data store, data mart, or data warehouse).
@@ -48,11 +48,11 @@
 ### Explain common techniques for data manipulation and query optimization
 
 -----
-## Data Analysis
+## 3.0 Data Analysis
 -----
-## Visualization
+## 4.0 Visualization
 -----
-## Data Governance, Quality, and Controls
+## 5.0 Data Governance, Quality, and Controls
 ### Summarize important data governance concepts
 #### Security requirements
 `Data encryption | Data transmission | De-identify data/data masking`
