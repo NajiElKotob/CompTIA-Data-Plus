@@ -148,7 +148,7 @@ Derived Variables: These are new variables created from existing ones, typically
 * Datorama: A cloud-based artificial intelligence (AI) powered marketing intelligence and analytics platform.
 * Domo: A platform that provides business intelligence tools and data visualization for real-time business decision-making.
 * AWS QuickSight: A business intelligence service from Amazon that provides data visualization and insights from AWS data sources and other on-premises databases.
-* Stata: A suite of applications for data management and statistical analysis.
+* [Stata](https://www.stata.com/): A suite of applications for data management and statistical analysis.
 * Minitab: A statistical package that provides a broad range of basic and advanced data analysis techniques.
 
 -----
