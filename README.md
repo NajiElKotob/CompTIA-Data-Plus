@@ -1,6 +1,6 @@
 # CompTIA Data+
 
-{Awesome Works in Process}
+{Awesome Works in Progress 📊📈}
 
 ## CompTIA
 * [CompTIA Data+](https://www.comptia.org/certifications/data) - comptia.org
