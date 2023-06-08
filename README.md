@@ -140,7 +140,7 @@ Derived Variables: These are new variables created from existing ones, typically
 * IBM SPSS: A software package used for interactive, or batched, statistical analysis.
 * SAS: A software suite developed by SAS Institute for advanced analytics, business intelligence, data management, and predictive analytics.
 * Tableau: A powerful data visualization and business intelligence tool that helps users view and understand their data.
-* Power BI: A business analytics tool by Microsoft that offers interactive visualizations, unified data access, and business intelligence capabilities.
+* [Power BI](https://powerbi.microsoft.com/): A business analytics tool by Microsoft that offers interactive visualizations, unified data access, and business intelligence capabilities.
 * Qlik: A platform for modern data analytics, offering interactive data visualization, reporting, and business intelligence capabilities.
 * MicroStrategy: An enterprise business intelligence (BI) application software provider which offers reporting and analytics capabilities.
 * BusinessObjects: A suite of front-end applications from SAP that allow business users to view, sort, and analyze business intelligence data.
