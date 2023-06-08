@@ -25,7 +25,13 @@
 * Star Schema: In a star schema, each dimension is represented by a single table, and these tables are connected to a central fact table, forming a star-like shape. This is a simple, denormalized structure that allows for faster data retrieval with simpler queries. However, due to denormalization, it might lead to more storage space being required and potential data redundancy.
 #### Slowly changing dimensions
 * Slowly Changing Dimensions (SCDs) are a concept in data warehousing that refers to the ways in which data in a dimension table changes over time. These dimensions don't change frequently, but when they do, there needs to be a way to manage and track these changes. For example, a customer's address might change, or a product's price might vary over time. The term "slowly changing dimension" was developed to help data warehouse designers track these historical changes in data over time. There are various strategies to handle SCDs, typically referred to as Type 0 through Type 6, each offering different methods for managing historical data changes.
-
+There are several strategies or "types" for managing Slowly Changing Dimensions (SCDs) in a data warehouse, including:
+   * Type 0 - Retain Original: In this approach, changes to data are not tracked. The original dimension attribute value is kept in the database, regardless of changes in the source system.
+   * Type 1 - Overwrite: In this strategy, when changes occur in the source system, the existing records in the dimension table are updated to reflect the new information, overwriting the old data. No history is kept.
+   * Type 2 - Add New Row: Here, a new record is added to the dimension table when changes occur in the source system, thus keeping a full history of data changes. This new record gets its own primary key, and the old record remains unchanged.
+   * Type 3 - Add New Attribute: In this approach, a new attribute is added to the dimension table to track changes. For example, if an address changes, a "previous address" field might be added.
+   * Type 4 - Add History Table: This involves creating an entirely separate "history" table to track changes. When a change occurs, a new record is added to the history table, leaving the original dimension table unchanged.
+   * Type 6 - Hybrid: This is a combination of Types 1, 2, and 3. It involves overwriting some attributes (Type 1), adding a new row for others (Type 2), and adding a new attribute for yet others (Type 3).
 
 ### 1.2 Compare and contrast different data types
 ### 1.3 Compare and contrast common data structures and file formats
