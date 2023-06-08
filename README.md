@@ -120,6 +120,9 @@ Derived Variables: These are new variables created from existing ones, typically
 -----
 ## 3.0 Data Analysis
 ### 3.1 Given a scenario, apply the appropriate descriptive statistical methods
+#### Measures of central tendency
+#### Measures of dispersion
+
 ### 3.2 Explain the purpose of inferential statistical methods
 ### 3.3 Summarize types of analysis and key analysis techniques
 ### 3.4 Identify common data analytics tools
