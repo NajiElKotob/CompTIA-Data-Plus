@@ -84,6 +84,21 @@ There are several strategies or "types" for managing Slowly Changing Dimensions 
 
 
 ### 2.3 Given a scenario, execute data manipulation techniques
+* Recoding Data: This involves changing or converting the values in a dataset.
+   * Numeric: Converting or changing numeric values. This might involve scaling values or converting units.
+   * Categorical: Converting or changing categorical values. This often involves turning categories into numeric codes or merging categories.
+Derived Variables: These are new variables created from existing ones, typically through some sort of mathematical transformation or combination.
+* Data Merge: This involves combining two or more datasets based on a common variable.
+* Data Blending: This is a process of combining data from multiple sources, which could be structured, semi-structured or unstructured, to provide a unified view.
+* Concatenation: This is a process of combining two or more strings into one.
+* Data Append: This involves adding new records (rows) to a dataset from another dataset that has similar fields (columns).
+* Imputation: This is a method for handling missing data by substituting missing values with estimated ones.
+* Reduction/Aggregation: This is the process of transforming a dataset into a smaller one that still accurately represents the larger set. Aggregation often involves computing summary statistics such as averages or sums.
+* Transpose: This involves switching the rows and columns of a dataset.
+* Normalize Data: This is a process of scaling values to a standard range, often 0 to 1, to achieve better performance in machine learning algorithms.
+* Parsing/String Manipulation: Parsing is the process of breaking down and interpreting strings. String manipulation involves changing, splitting, joining, or otherwise working with strings.
+
+
 ### 2.4 Explain common techniques for data manipulation and query optimization
 
 -----
