@@ -34,7 +34,17 @@ There are several strategies or "types" for managing Slowly Changing Dimensions 
    * Type 6 - Hybrid: This is a combination of Types 1, 2, and 3. It involves overwriting some attributes (Type 1), adding a new row for others (Type 2), and adding a new attribute for yet others (Type 3).
 
 ### 1.2 Compare and contrast different data types
+* Date: This type represents a date (and often a time). It's usually stored in a specific format that the database can understand.
+* Numeric: Numeric data types represent number values. They can further be classified into integer, decimal, float, etc. These are all numeric data types but have different precision and size.
+* Alphanumeric: This data type can contain both text and numbers. They are often used to store codes, identifiers or descriptions that may include both letters and digits.
+* Currency: A data type specifically designed to store monetary values, maintaining a high level of precision to avoid rounding errors.
+* Text: Text data types are used to store letters, numbers and other characters. They can hold sentences, paragraphs or even larger text.
+* Discrete vs Continuous: Discrete data can only take specific values (like the number of children in a family), while continuous data can take any value within a range (like height, weight, temperature).
+* Categorical/Dimension: This data type is used for values that belong to a limited set of categories or groups, often used in statistical analysis. It can be further divided into nominal (no order implied, like colors: red, blue, green) and ordinal (order matters, like rating scale: poor, average, good).
+* Images, Audio, Video: These are complex data types that store multimedia data. They are typically stored in binary format, and databases often handle these by storing a reference to the location of the data rather than the data itself.
+
 ### 1.3 Compare and contrast common data structures and file formats
+
 -----
 ## 2.0 Data Mining
 ### Explain data acquisition concepts
