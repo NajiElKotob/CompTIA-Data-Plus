@@ -47,7 +47,8 @@ There are several strategies or "types" for managing Slowly Changing Dimensions 
 * Images, Audio, Video: These are complex data types that store multimedia data. They are typically stored in binary format, and databases often handle these by storing a reference to the location of the data rather than the data itself.
 
 ### 1.3 Compare and contrast common data structures and file formats
-#### Structure
+#### Structures
+`Structured Data | Unstructured Data`
 ##### Structured Data
 * Defined Rows/Columns: This refers to data that is organized in a tabular form, like a spreadsheet or a relational database, where each row represents a record and each column represents an attribute of that record. This is a highly structured format which is easy to query and analyze.
 * Key-Value Pairs: This is a type of data model where each data item has a key that is uniquely associated with it, similar to a dictionary or a map. This is commonly used in NoSQL databases and allows for efficient data retrieval when the key is known.
