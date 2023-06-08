@@ -125,7 +125,29 @@ Derived Variables: These are new variables created from existing ones, typically
 
 ### 3.2 Explain the purpose of inferential statistical methods
 ### 3.3 Summarize types of analysis and key analysis techniques
+####  Process to determine type of analysis
+#### Type of analysis
 ### 3.4 Identify common data analytics tools
+* Structured Query Language (SQL): A programming language used for managing and manipulating relational databases.
+* Python: A high-level, interpreted programming language known for its simplicity and versatility, widely used in data science, web development, automation, and more.
+* Microsoft Excel: A spreadsheet program developed by Microsoft, commonly used for data organization, analysis, and visualization.
+* R: A programming language and free software environment primarily used for statistical computing and graphics.
+* RapidMiner: An advanced analytics platform that provides end-to-end workflows for machine learning, including data prep, results visualization, and model validation.
+* IBM Cognos: A business intelligence suite by IBM which provides reporting, analysis, dashboards, and scorecards.
+* IBM SPSS Modeler: A predictive analytics platform that offers predictive modeling, data mining, and deployment capabilities.
+* IBM SPSS: A software package used for interactive, or batched, statistical analysis.
+* SAS: A software suite developed by SAS Institute for advanced analytics, business intelligence, data management, and predictive analytics.
+* Tableau: A powerful data visualization and business intelligence tool that helps users view and understand their data.
+* Power BI: A business analytics tool by Microsoft that offers interactive visualizations, unified data access, and business intelligence capabilities.
+* Qlik: A platform for modern data analytics, offering interactive data visualization, reporting, and business intelligence capabilities.
+* MicroStrategy: An enterprise business intelligence (BI) application software provider which offers reporting and analytics capabilities.
+* BusinessObjects: A suite of front-end applications from SAP that allow business users to view, sort, and analyze business intelligence data.
+* Apex: A proprietary language developed by Salesforce.com, used to write complex business and transactional logic on the Salesforce platform.
+* Datorama: A cloud-based artificial intelligence (AI) powered marketing intelligence and analytics platform.
+* Domo: A platform that provides business intelligence tools and data visualization for real-time business decision-making.
+* AWS QuickSight: A business intelligence service from Amazon that provides data visualization and insights from AWS data sources and other on-premises databases.
+* Stata: A suite of applications for data management and statistical analysis.
+* Minitab: A statistical package that provides a broad range of basic and advanced data analysis techniques.
 
 -----
 ## 4.0 Visualization
