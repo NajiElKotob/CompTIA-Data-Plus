@@ -72,7 +72,17 @@ There are several strategies or "types" for managing Slowly Changing Dimensions 
 * Missing Values
    *  [Concepts of MCAR, MAR and MNAR](https://stefvanbuuren.name/fimd/sec-MCAR.html) - stefvanbuuren.name
    * In statistics and data science, replacing missing values with the mean value of the remaining data in the variable is a form of **imputation**, which is a general term for techniques used to estimate and replace missing data with substituted values. 
-   * **Capping** in the context of data analysis is a method used to limit or "cap" extreme values in a dataset in order to reduce the impact of outliers. This method is also known as "winsorizing" or "truncation".
+* **Capping** in the context of data analysis is a method used to limit or "cap" extreme values in a dataset in order to reduce the impact of outliers. This method is also known as "winsorizing" or "truncation".
+* Duplicate Data: This refers to data entries that are repeated in the dataset. Duplicates can occur for various reasons, such as errors during data entry or merging datasets.
+* Redundant Data: This refers to data that is repeated or not needed, and doesn't provide additional information. It often results from poor database design or the lack of normalization in the database.
+* Missing Values: This refers to the absence of data or data values in a dataset. Handling missing values is a major step in the data cleaning process and there are several ways to handle them, like imputation or deletion.
+* Invalid Data: This is data that is incorrect, out of range, or in the wrong format. For example, a negative value for someone's age would be considered invalid.
+* Non-Parametric Data: This refers to data that doesn't follow a known or specified distribution. Non-parametric statistical methods are often used when the data doesn’t meet the assumption of normality.
+* Data Outliers: Outliers are data points that significantly differ from other observations in the dataset. They can arise due to variability in the data or due to errors.
+* Specification Mismatch: This occurs when the actual data and expected data do not match. For example, the specification might state that a field should contain dates, but instead, it contains text.
+* Data Type Validation: This is the process of checking that the values in a dataset are of the expected data type. For example, a field expecting numerical data should not contain text. This process helps in maintaining data integrity.
+
+
 ### 2.3 Given a scenario, execute data manipulation techniques
 ### 2.4 Explain common techniques for data manipulation and query optimization
 
