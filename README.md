@@ -59,6 +59,7 @@ There are several strategies or "types" for managing Slowly Changing Dimensions 
 -----
 ## 2.0 Data Mining
 ### 2.1 Explain data acquisition concepts
+`ETL | ELT | Delta Load | API`
 #### Integration
 * Extract, Transform, Load (ETL): This is a process in data warehousing. First, data is extracted from homogeneous or heterogeneous data sources. Next, it's transformed to fit operational needs (which can involve cleaning, aggregating, and organizing the data). Finally, it's loaded into the end target (database, more specifically, operational data store, data mart, or data warehouse).
 * Extract, Load, Transform (ELT): This is a variant of ETL where the extracted data is loaded into the target system first, and transformations are performed after the data is loaded. This approach can leverage the high-performance capabilities of modern data warehousing environments.
