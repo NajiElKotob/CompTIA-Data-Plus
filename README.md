@@ -110,11 +110,19 @@ Derived Variables: These are new variables created from existing ones, typically
 * System Functions: These functions perform operations related to the system, such as returning the current date and time, getting information about the user, or system settings. The availability and specifics of these functions can vary depending on the database system or programming language.
 
 #### Query optimization
+* Query Optimization: This is a function of the database management system where it attempts to determine the most efficient way to execute a given query by considering the different query plans.
+* Parametrization: In the context of databases, it's a way of structuring a query to avoid SQL injection attacks and optimize query execution. Instead of directly embedding values, placeholders are used which are then supplied at execution time.
+* Indexing: An index is a data structure that improves the speed of data retrieval operations on a database. It's similar to the index at the back of a book, allowing the database to find data without having to scan every row in a table.
+* Temporary Table in the Query Set: A temporary table is a table that is used to store intermediate results. These can be useful in complex queries where you need to work with subsets of data multiple times in a single query.
+* Subset of Records: This is a smaller set of data extracted from a larger dataset, usually based on certain criteria. Querying a subset of records can speed up operations by reducing the amount of data that needs to be processed.
+* Execution Plan: This is the sequence of operations that the database will perform to execute a given query. Query optimizers generate different execution plans and select the one with the lowest cost based on factors like CPU usage, disk reads, and memory usage.
 
 -----
 ## 3.0 Data Analysis
+
 -----
 ## 4.0 Visualization
+
 -----
 ## 5.0 Data Governance, Quality, and Controls
 ### Summarize important data governance concepts
