@@ -54,7 +54,7 @@ There are several strategies or "types" for managing Slowly Changing Dimensions 
 
 -----
 ## 2.0 Data Mining
-### Explain data acquisition concepts
+### 2.1 Explain data acquisition concepts
 #### Integration
 * Extract, Transform, Load (ETL): This is a process in data warehousing. First, data is extracted from homogeneous or heterogeneous data sources. Next, it's transformed to fit operational needs (which can involve cleaning, aggregating, and organizing the data). Finally, it's loaded into the end target (database, more specifically, operational data store, data mart, or data warehouse).
 * Extract, Load, Transform (ELT): This is a variant of ETL where the extracted data is loaded into the target system first, and transformations are performed after the data is loaded. This approach can leverage the high-performance capabilities of modern data warehousing environments.
@@ -68,13 +68,13 @@ There are several strategies or "types" for managing Slowly Changing Dimensions 
 * Sampling: This is a statistical method that involves selecting a subset of individuals from a larger population, in order to estimate characteristics of the whole population.
 * Observation: This is a method of collecting data by watching and recording behaviors or events. It can be done in natural settings or in more controlled conditions, and may involve no interaction with the subjects being observed, or active participation by the observer.
 
-### Identify common reasons for cleansing and profiling datasets
+### 2.2 Identify common reasons for cleansing and profiling datasets
 * Missing Values
    *  [Concepts of MCAR, MAR and MNAR](https://stefvanbuuren.name/fimd/sec-MCAR.html) - stefvanbuuren.name
    * In statistics and data science, replacing missing values with the mean value of the remaining data in the variable is a form of **imputation**, which is a general term for techniques used to estimate and replace missing data with substituted values. 
    * **Capping** in the context of data analysis is a method used to limit or "cap" extreme values in a dataset in order to reduce the impact of outliers. This method is also known as "winsorizing" or "truncation".
-### Given a scenario, execute data manipulation techniques
-### Explain common techniques for data manipulation and query optimization
+### 2.3 Given a scenario, execute data manipulation techniques
+### 2.4 Explain common techniques for data manipulation and query optimization
 
 -----
 ## 3.0 Data Analysis
