@@ -151,6 +151,9 @@ Derived Variables: These are new variables created from existing ones, typically
 
 -----
 ## 4.0 Visualization
+### 4.1 Given a scenario, translate business requirements to form a report
+### 4.2 
+### 4.3 
 
 -----
 ## 5.0 Data Governance, Quality, and Controls
