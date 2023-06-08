@@ -101,6 +101,14 @@ Derived Variables: These are new variables created from existing ones, typically
 
 ### 2.4 Explain common techniques for data manipulation and query optimization
 #### Data manipulation
+* Data Manipulation: This refers to the process of adjusting data to make it organized and easier to read. Data manipulation can involve a variety of techniques to modify, organize, or combine data.
+* Filtering: This is a process of selecting a subset of data based on certain criteria. For example, you might filter a dataset to only include entries from a certain date range or with a specific value.
+* Sorting: This involves arranging data in a certain order, usually either ascending or descending. For example, you might sort a list of people by their last names.
+* Date Functions: These are functions that perform operations on date data types. This could involve extracting the day from a date, determining the number of days between two dates, or converting a string to a date.
+* Logical Functions: These functions return a value based on a logical condition, such as IF, AND, OR in many programming languages.
+* Aggregate Functions: These functions operate on a group of rows to give one result per group. Examples include SUM, AVG, MAX, MIN, and COUNT.
+* System Functions: These functions perform operations related to the system, such as returning the current date and time, getting information about the user, or system settings. The availability and specifics of these functions can vary depending on the database system or programming language.
+
 #### Query optimization
 
 -----
