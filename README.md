@@ -14,6 +14,7 @@
 * Non-relational: Non-relational databases, often called NoSQL databases, are more flexible than relational databases because they don't require a fixed schema and they scale more easily. They store data in a variety of ways: it can be column-oriented, document-oriented, graph-based or organized as a KeyValue store. This flexibility can make them a good choice for high-velocity, complex, and variable data. Examples include MongoDB (document-oriented), Cassandra (column-oriented), and Neo4j (graph-based).
 
 #### Data mart/data warehousing/data lake
+`OLTP | OLAP`
 * Online Transactional Processing (OLTP): OLTP refers to the real-time processing of transaction-based applications, typically associated with relational databases and business applications. OLTP systems prioritize fast, reliable, and consistent transactions and support a large number of short on-line transactions such as INSERT, UPDATE, DELETE. Examples include order entry, retail sales, and financial transaction systems.
 * Online Analytical Processing (OLAP): OLAP, on the other hand, refers to complex analysis of data, often originating from various sources. OLAP systems are optimized for read-heavy scenarios and facilitate multi-dimensional analytical queries (like aggregation and drill-down), enabling users to analyze data from multiple dimensions. These systems are typically used in business intelligence and data warehousing scenarios.
 
