@@ -145,6 +145,12 @@ Derived Variables: These are new variables created from existing ones, typically
 
 
 ### 3.2 Explain the purpose of inferential statistical methods
+* Statistical testing concepts
+   * t-tests: A t-test is a statistical hypothesis test used to determine whether there is a significant difference between the means of two groups. The test assumes that the data follows a normal distribution and that variances are equal.
+   * Z-score: A Z-score is a statistical measurement that describes a value's relationship to the mean of a group of values. It's expressed in terms of standard deviations from the mean. A Z-score of 0 indicates that the data point's score is identical to the mean score.
+   * p-values: In statistical testing, a p-value is the probability of obtaining a result at least as extreme as the one that was actually observed, given that the null hypothesis is true. A small p-value (typically ≤ 0.05) indicates strong evidence against the null hypothesis, so you reject the null hypothesis.
+   * Chi-squared: The Chi-squared test is a statistical hypothesis test that's used to determine whether there's a significant association between two categorical variables in a sample. It compares the observed frequencies in each category of a contingency table with the frequencies that would be expected under the null hypothesis of no association.
+
 ### 3.3 Summarize types of analysis and key analysis techniques
 ####  Process to determine type of analysis
 #### Type of analysis
