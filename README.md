@@ -208,6 +208,14 @@ Derived Variables: These are new variables created from existing ones, typically
 -----
 ## 4.0 Visualization
 ### 4.1 Given a scenario, translate business requirements to form a report
+* Data Content: This refers to the actual information or data included in an analysis or report. It's the substance of the data set that's being analyzed.
+* Filtering: Filtering involves narrowing down a data set to focus on certain information. This is often done by applying specific criteria to one or more data fields.
+* Views: In the context of data analysis, a view refers to a particular way of looking at data. It can be a subset or arrangement of the data set that presents information in a particular way for a specific purpose.
+* Date Range: This refers to the period of time from which data is included in the analysis. The date range can greatly affect the results of an analysis.
+* Frequency: In the context of a report or analysis, frequency often refers to how often data is collected or how regularly a report is generated (daily, weekly, monthly, etc).
+* Audience for Report: This refers to the individuals or groups who will receive or have access to the final report or analysis. It's important to consider the audience when preparing a report, as it can influence the content, format, and level of detail included in the report.
+   * Distribution List: This is a list of recipients who will receive the report or analysis. It may include individuals within an organization, external stakeholders, or even automated systems that use the report for further processing.
+
 ### 4.2 Given a scenario, use appropriate design components for reports and dashboards
 ### 4.3 Given a scenario, use appropriate methods for dashboard development
 ### 4.4 Given a scenario, apply the appropriate type of visualization
