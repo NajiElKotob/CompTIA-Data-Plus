@@ -131,6 +131,18 @@ Derived Variables: These are new variables created from existing ones, typically
    * Median: The median is the middle number in a sorted, ascending or descending, list of numbers. If the data set contains an even number of observations, the median is the average of the two middle numbers. It divides the data set into two equal halves.
    * Mode: The mode is the value that appears most frequently in a data set. A data set may have one mode (unimodal), two modes (bimodal), or multiple modes (multimodal). It's the only measure of central tendency that can be used with nominal data, which have purely qualitative value.
 #### Measures of dispersion
+* Measures of Dispersion: These are statistical measures that represent how spread out the values are in a data set. They provide an understanding of the variability or diversity of the data.
+   * Range: The range is the difference between the largest (max) and smallest (min) values in a data set. It provides a basic measure of the spread of the entire data.
+     * Max: The maximum or "max" is the highest value in a data set.
+     * Min: The minimum or "min" is the lowest value in a data set.
+   * Distribution: The distribution of a statistical data set refers to the arrangement of its values. It shows the spread and skewness of data. Common types include normal distribution, binomial distribution, and uniform distribution.
+   * Variance: Variance measures how spread out the numbers in a data set are. It's calculated by taking the average of the squared differences from the mean.
+   * Standard Deviation: The standard deviation is the square root of the variance. It measures the average distance between each data point and the mean. It's a popular measure of variability because it returns to the original unit of measure of the data set.
+* Frequencies/Percentages: Frequencies refer to the number of times a particular value or category appears in a dataset. When expressed as a proportion of the total number of observations, this is often represented as a percentage.
+* Percent Change: Percent change is a measure that expresses the change in a variable over time as a percentage of the initial value. It's often used to express growth or decline from one period to another in financial and economic data.
+* Percent Difference: Percent difference is a measure of the relative difference between two quantities, expressed as a percentage. It is often used when comparing two quantities where neither is considered an initial or starting value.
+* Confidence Intervals: A confidence interval is a range of values, derived from a statistical estimate, that is likely to contain an unknown population parameter. It is often expressed with a confidence level (e.g., a 95% confidence interval) to show the probability that the parameter lies within the given range.
+
 
 ### 3.2 Explain the purpose of inferential statistical methods
 ### 3.3 Summarize types of analysis and key analysis techniques
