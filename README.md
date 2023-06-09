@@ -126,6 +126,10 @@ Derived Variables: These are new variables created from existing ones, typically
 ## 3.0 Data Analysis
 ### 3.1 Given a scenario, apply the appropriate descriptive statistical methods
 #### Measures of central tendency
+* Measures of Central Tendency: These are statistical measures that identify the center of a data set. The central tendency gives a single value that represents the entire distribution of data, providing a summary of the data.
+   * Mean: The mean, often called the average, is calculated by adding up all the values in a data set and then dividing by the number of values. It's a measure of the central location of data in a set.
+   * Median: The median is the middle number in a sorted, ascending or descending, list of numbers. If the data set contains an even number of observations, the median is the average of the two middle numbers. It divides the data set into two equal halves.
+   * Mode: The mode is the value that appears most frequently in a data set. A data set may have one mode (unimodal), two modes (bimodal), or multiple modes (multimodal). It's the only measure of central tendency that can be used with nominal data, which have purely qualitative value.
 #### Measures of dispersion
 
 ### 3.2 Explain the purpose of inferential statistical methods
