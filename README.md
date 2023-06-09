@@ -8,6 +8,12 @@
 * [How To Study for CompTIA Data+](https://www.comptia.org/blog/how-to-study-for-comptia-data)
 
 # Domains
+* 1.0 Data Concepts and Environments
+* 2.0 Data Mining
+* 3.0 Data Analysis
+* 4.0 Visualization
+* 5.0 Data Governance, Quality, and Controls
+-----
 
 ## 1.0 Data Concepts and Environments
 ### 1.1 Identify basic concepts of data schemas and dimensions
