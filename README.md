@@ -171,6 +171,16 @@ Derived Variables: These are new variables created from existing ones, typically
    * Scoping/Gap Analysis: Scoping is the process of determining the parameters or boundaries of the analysis, such as the time period, geographical area, or specific sub-groups to be considered. Gap analysis, on the other hand, involves identifying any missing data or information that could impact the accuracy or validity of the analysis.
 
 #### Type of analysis
+• Type of Analysis: This refers to the specific method or approach used to analyze and interpret data. The type of analysis chosen depends on the nature of the data and the research question or business problem being addressed.
+* Trend Analysis: This involves examining data over time to identify patterns or trends. It's often used in business to forecast future behavior.
+   * Comparison of Data Over Time: This involves looking at data from different time periods to identify changes, trends, or patterns over time.
+* Performance Analysis: This involves comparing actual results or outputs against planned or expected ones. It's used to understand how well a process, system, or organization is performing.
+   * Tracking Measurements Against Defined Goals: This refers to regularly monitoring and evaluating progress toward specific objectives or targets.
+   * Basic Projections to Achieve Goals: This involves estimating future performance based on current data and trends, to guide decision-making and planning.
+* Exploratory Data Analysis: This is an approach to analyzing data sets, often large ones, to summarize their main characteristics, often using visual methods or descriptive statistics.
+   * Use of Descriptive Statistics to Determine Observations: This involves using statistical methods (like measures of central tendency or dispersion) to summarize and understand the data.
+* Link Analysis: This is a type of network analysis used to explore relationships (links) between objects. It's often used in fields such as information science and social network analysis.
+   * Connection of Data Points or Pathway: This refers to the process of identifying relationships or connections between different data points, which can provide insight into patterns or trends.
 
 ### 3.4 Identify common data analytics tools
 * Structured Query Language (SQL): A programming language used for managing and manipulating relational databases.
