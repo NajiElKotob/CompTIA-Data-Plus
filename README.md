@@ -160,7 +160,8 @@ Derived Variables: These are new variables created from existing ones, typically
 * Hypothesis Testing: Hypothesis testing is a statistical method used to make inferences or draw conclusions about a population based on a sample of data. It involves setting up a null hypothesis (typically representing no effect or no difference), and then using data to decide whether or not to reject this null hypothesis in favor of an alternative hypothesis.
    * Type I Error: A Type I error occurs when the null hypothesis is true, but is incorrectly rejected. It's the equivalent of a false positive. For example, concluding that a medical treatment has an effect when it really doesn't.
    * Type II Error: A Type II error occurs when the null hypothesis is false, but is incorrectly accepted. It's the equivalent of a false negative. For example, concluding that a medical treatment has no effect when it actually does.
-
+* Simple Linear Regression: Simple linear regression is a statistical method that allows us to summarize and study relationships between two continuous (quantitative) variables. One variable, denoted x, is regarded as the predictor, explanatory, or independent variable. The other variable, denoted y, is regarded as the response, outcome, or dependent variable. It assumes a linear relationship between x and y.
+* Correlation: Correlation is a statistical measure that expresses the extent to which two variables are linearly related. It's a number between -1 and 1 wherein the sign determines the direction of the relationship (positive or negative) and the magnitude determines the strength of the relationship, with 1 indicating a perfect linear relationship.
 
 ### 3.3 Summarize types of analysis and key analysis techniques
 ####  Process to determine type of analysis
