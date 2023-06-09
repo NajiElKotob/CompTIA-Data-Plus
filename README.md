@@ -9,10 +9,10 @@
 
 # Domains
 * [1.0 Data Concepts and Environments](#10-data-concepts-and-environments)
-* 2.0 Data Mining
-* 3.0 Data Analysis
-* 4.0 Visualization
-* 5.0 Data Governance, Quality, and Controls
+* [2.0 Data Mining](#20-data-mining)
+* [3.0 Data Analysis](#30-data-analysis)
+* [4.0 Visualization](#40-visualization)
+* [5.0 Data Governance, Quality, and Controls](#50-data-governance-quality-and-controls)
 -----
 
 ## 1.0 Data Concepts and Environments
