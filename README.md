@@ -151,6 +151,11 @@ Derived Variables: These are new variables created from existing ones, typically
    * p-values: In statistical testing, a p-value is the probability of obtaining a result at least as extreme as the one that was actually observed, given that the null hypothesis is true. A small p-value (typically ≤ 0.05) indicates strong evidence against the null hypothesis, so you reject the null hypothesis.
    * Chi-squared: The Chi-squared test is a statistical hypothesis test that's used to determine whether there's a significant association between two categorical variables in a sample. It compares the observed frequencies in each category of a contingency table with the frequencies that would be expected under the null hypothesis of no association.
 
+* Hypothesis Testing: Hypothesis testing is a statistical method used to make inferences or draw conclusions about a population based on a sample of data. It involves setting up a null hypothesis (typically representing no effect or no difference), and then using data to decide whether or not to reject this null hypothesis in favor of an alternative hypothesis.
+   * Type I Error: A Type I error occurs when the null hypothesis is true, but is incorrectly rejected. It's the equivalent of a false positive. For example, concluding that a medical treatment has an effect when it really doesn't.
+   * Type II Error: A Type II error occurs when the null hypothesis is false, but is incorrectly accepted. It's the equivalent of a false negative. For example, concluding that a medical treatment has no effect when it actually does.
+
+
 ### 3.3 Summarize types of analysis and key analysis techniques
 ####  Process to determine type of analysis
 #### Type of analysis
