@@ -13,6 +13,7 @@
 * [3.0 Data Analysis](#30-data-analysis)
 * [4.0 Visualization](#40-visualization)
 * [5.0 Data Governance, Quality, and Controls](#50-data-governance-quality-and-controls)
+* [Acronymns](#acronyms)
 -----
 
 ## 1.0 Data Concepts and Environments
