@@ -165,7 +165,13 @@ Derived Variables: These are new variables created from existing ones, typically
 
 ### 3.3 Summarize types of analysis and key analysis techniques
 ####  Process to determine type of analysis
+* Process to Determine Type of Analysis: This process involves identifying the most appropriate statistical or data analysis method based on the research question, the nature of the data, and the available resources.
+   * Review/Refine Business Questions: The first step in any analysis process, this involves clearly defining the problem or question that needs to be answered. These questions should be specific, measurable, achievable, relevant, and time-bound.
+   * Determine Data Needs and Sources to Perform Analysis: This step involves identifying the types of data needed to answer the research question, and determining where and how this data can be collected. The required data might come from a variety of sources, including databases, surveys, or external research.
+   * Scoping/Gap Analysis: Scoping is the process of determining the parameters or boundaries of the analysis, such as the time period, geographical area, or specific sub-groups to be considered. Gap analysis, on the other hand, involves identifying any missing data or information that could impact the accuracy or validity of the analysis.
+
 #### Type of analysis
+
 ### 3.4 Identify common data analytics tools
 * Structured Query Language (SQL): A programming language used for managing and manipulating relational databases.
 * Python: A high-level, interpreted programming language known for its simplicity and versatility, widely used in data science, web development, automation, and more.
