@@ -217,6 +217,10 @@ Derived Variables: These are new variables created from existing ones, typically
    * Distribution List: This is a list of recipients who will receive the report or analysis. It may include individuals within an organization, external stakeholders, or even automated systems that use the report for further processing.
 
 ### 4.2 Given a scenario, use appropriate design components for reports and dashboards
+* Report Cover Page: This is the first page of a report that usually contains the title, date, and author's name. It may also include the organization's name and logo, the report's purpose, and other relevant information.
+   * Instructions: In the context of a report cover page, instructions may refer to guidelines for how the report should be read or used. For example, it might include notes on terminology, how to interpret charts or graphs, or instructions for providing feedback.
+   * Summary: This is a brief overview of the report's main findings, conclusions, or recommendations. It's typically written for readers who may not have time to read the entire report but need to understand the key points.
+     * Observations and Insights: These are the significant findings or understandings gained from the analysis of the data. Observations might point out notable patterns or trends in the data, while insights provide deeper understanding, often explaining why these patterns exist or suggesting potential actions in response to these findings.
 ### 4.3 Given a scenario, use appropriate methods for dashboard development
 ### 4.4 Given a scenario, apply the appropriate type of visualization
 ### 4.5 Compare and contrast types of reports
