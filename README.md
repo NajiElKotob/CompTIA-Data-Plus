@@ -279,7 +279,58 @@ Derived Variables: These are new variables created from existing ones, typically
      * Dashboard Optimization: This involves improving the performance and usability of a dashboard. It can involve reducing load times, improving data visualization, or simplifying navigation.
      * Access Permissions: These determine who can view or interact with the dashboard. This is important for maintaining data security and ensuring that users only see the data they need.
 ### 4.4 Given a scenario, apply the appropriate type of visualization
-
+* Line Chart
+   * Description: A line chart displays information as a series of data points connected by straight line segments. It is often used to visualize a trend in data over intervals of time.
+   * Pros: Good for showing trends over time and comparing multiple datasets.
+   * Cons: Not suitable for showing individual data points or categories.
+* Pie Chart
+   * Description: A pie chart is a circular graph that displays parts-of-a-whole.
+   * Pros: Simple to understand and can clearly show proportions.
+   * Cons: Can be misleading or difficult to interpret with many sections or similar proportions.
+* Bubble Chart
+   * Description: A bubble chart is a variation of a scatter plot, in which data points are replaced with bubbles, with the size of the bubble representing a third variable.
+   * Pros: Can represent three or four dimensions of data.
+   * Cons: Can become confusing with too many bubbles or overlapping bubbles.
+* Scatter Plot
+   * Description: A scatter plot uses dots to represent values for two different numeric variables.
+   * Pros: Great for showing relationships between two variables and identifying correlation.
+   * Cons: Can be difficult to interpret without a clear trend or with many data points.
+* Bar Chart
+   * Description: A bar chart presents categorical data with rectangular bars with heights or lengths proportional to the values they represent.
+   * Pros: Simple, easy to read, and good for comparing multiple categories.
+   * Cons: Not suitable for showing trends over time.
+* Histogram
+   * Description: A histogram is a graphical display of data using bars of different heights to show the frequency of data points in a specified range.
+   * Pros: Good for showing the distribution of a dataset and identifying skewness.
+   * Cons: Requires interval data, can't represent categorical data.
+* Waterfall Chart
+   * Description: A waterfall chart is a form of data visualization that helps in determining the cumulative effect of sequentially introduced positive or negative values.
+   * Pros: Excellent for visualizing how an initial value is affected by a series of intermediate positive or negative values.
+   * Cons: Can become confusing with too many categories or stages.
+* Heat Map
+   * Description: A heat map is a two-dimensional representation of data where values are represented by colors.
+   * Pros: Great for showing patterns and correlations.
+   * Cons: Color choices can greatly affect readability and interpretation.
+* Geographic Map
+   * Description: A geographic map displays data related to geographic areas.
+   * Pros: Intuitive for location-based data and can show spatial trends or distributions.
+   * Cons: May require additional software or tools and can become cluttered with many data points.
+* Tree Map
+   * Description: A tree map displays hierarchical data as a set of nested rectangles, with size and color representing two dimensions of information.
+   * Pros: Good for showing part-to-whole relationships within a hierarchy.
+   * Cons: Can become hard to read with too many categories or levels.
+* Stacked Chart
+   * Description: A stacked chart is a variant of the bar chart or area chart where segments are placed on top of each other to show the cumulative effect.
+   * Pros: Useful for showing part-to-whole relationships over time or across categories.
+   * Cons: Can become difficult to interpret with many categories.
+* Infographic
+   * Description: An infographic combines charts, graphics, text, and images to present information in a visually engaging way.
+   * Pros: Can be highly engaging and shareable, great for storytelling.
+   * Cons: Can require more effort to create and may not be suitable
+* Word Cloud
+   * Description: A word cloud is a visual representation of text data where the size of each word indicates its frequency or importance.
+   * Pros: It's a visually engaging way to quickly understand most prominent terms in a set of text data.
+   * Cons: It lacks precision and context, and doesn't provide insights on the relationships between words.
 ### 4.5 Compare and contrast types of reports
 
 -----
