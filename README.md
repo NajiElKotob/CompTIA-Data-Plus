@@ -246,7 +246,21 @@ Derived Variables: These are new variables created from existing ones, typically
      * Appendix: An appendix is a section at the end of a report that provides supplementary information. This can include detailed data, methodological notes, or any additional material that supports the content of the report but might be too detailed or tangential to include in the main body of the report.
 
 ### 4.3 Given a scenario, use appropriate methods for dashboard development
+* Dashboard Considerations: These are various factors that must be taken into account when designing a data dashboard. They can influence the layout, functionality, and overall effectiveness of the dashboard.
+   * Data Sources and Attributes: These are the origins of the data and the characteristics of that data, which must be understood to create an effective dashboard.
+     * Field Definitions: These are explanations of what each data field or column in a dataset represents.
+     * Dimensions: In a dataset, dimensions are categories or characteristics that can be used to organize or slice the data (like geographic region, time period, or product type).
+     * Measures: These are the quantifiable data points that are being observed or measured (like sales volume, revenue, or number of customers).
+   * Continuous/Live Data Feed vs. Static Data: A continuous or live data feed updates in real time or near real time, while static data does not change once it is loaded into the dashboard. The choice between these depends on the needs of the dashboard's users and the availability of data.
+   * Consumer Types: These are the categories of people who will be using the dashboard. Different consumer types may have different needs or levels of expertise, influencing the design of the dashboard.
+     * C-level Executives: High-level corporate officers (like a CEO or CFO) who need to see key performance indicators and summary data.
+     * Management: Mid-level managers who may need both summary data and more detailed data on specific areas of operations.
+     * External Vendors/Stakeholders: People outside the organization who have a vested interest in its performance, and who may need specific data related to their relationship with the organization.
+     * General Public: Members of the public, who may require high-level data presented in a straightforward, easy-to-understand manner.
+     * Technical Experts: These are people with expertise in a specific field or area, who may need detailed, specialized data.
+
 ### 4.4 Given a scenario, apply the appropriate type of visualization
+
 ### 4.5 Compare and contrast types of reports
 
 -----
