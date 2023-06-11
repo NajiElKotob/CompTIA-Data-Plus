@@ -332,6 +332,17 @@ Derived Variables: These are new variables created from existing ones, typically
    * Pros: It's a visually engaging way to quickly understand most prominent terms in a set of text data.
    * Cons: It lacks precision and context, and doesn't provide insights on the relationships between words.
 ### 4.5 Compare and contrast types of reports
+* Static vs. Dynamic Reports: Static reports are fixed, displaying data that was captured at a particular point in time and does not change after the report is generated.
+Dynamic reports can change in real time as data updates. They often allow interactive exploration of the data.
+   * Point-in-Time: A point-in-time report reflects the state of the data at a particular moment in time.
+   * Real-Time: A real-time report is updated instantaneously as the underlying data changes.
+* Ad-Hoc/One-Time Report: An ad-hoc report is created to answer a specific business question or for a specific purpose. It may not be repeated or updated after it's generated.
+* Self-Service/On-Demand: Self-service or on-demand reports allow users to generate reports as they need them, often using a user interface that allows them to select what data they want to include.
+* Recurring Reports: These are reports that are generated on a regular basis, such as daily, weekly, monthly, etc. They often monitor consistent metrics or KPIs over time.
+   * Compliance Reports: These are reports often mandated by laws or regulations, such as financial audits or health and safety inspections. They demonstrate that an organization is adhering to required standards.
+   * Risk and Regulatory Reports: These reports are used to monitor risks faced by the organization and to ensure the organization is complying with industry regulations.
+   * Operational Reports: These reports monitor the day-to-day operations of an organization. They can track performance metrics, key performance indicators (KPIs), and other measures of operational efficiency or effectiveness.
+* Tactical/Research Report: A tactical or research report is often used to inform strategic decision-making. It might involve in-depth analysis of data, examination of trends, or research into a specific issue or question.
 
 -----
 ## 5.0 Data Governance, Quality, and Controls
