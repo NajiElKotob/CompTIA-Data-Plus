@@ -235,6 +235,16 @@ Derived Variables: These are new variables created from existing ones, typically
      * Color Codes: These are specific colors associated with a company's brand.
      * Logos/Trademarks: These are distinctive symbols or designs that identify a company or brand.
      * Watermark: A watermark is a faint design made in some paper during manufacture, which is visible when held against the light and typically identifies the maker. In the context of a report, it can be a light image or text placed behind the content for branding or security purposes.
+
+* Documentation Elements: These are various pieces of information included in a report or other document to provide additional context, details, or explanations.
+   * Version Number: This indicates the iteration or revision of the document. It's important for tracking updates and changes over time.
+   * Reference Data Sources: This refers to the original sources from which data was collected or obtained. It's important for transparency, accountability, and for those who may wish to conduct further research.
+   * Reference Dates: These are key dates related to the report or data.
+     * Report Run Date: This is the date on which the report was generated or created.
+     * Data Refresh Date: This is the date when the data used in the report was last updated or refreshed.
+     * Frequently Asked Questions (FAQs): These are common questions (and their answers) about the report or data. Including FAQs can help address reader's queries or potential confusions proactively.
+     * Appendix: An appendix is a section at the end of a report that provides supplementary information. This can include detailed data, methodological notes, or any additional material that supports the content of the report but might be too detailed or tangential to include in the main body of the report.
+
 ### 4.3 Given a scenario, use appropriate methods for dashboard development
 ### 4.4 Given a scenario, apply the appropriate type of visualization
 ### 4.5 Compare and contrast types of reports
