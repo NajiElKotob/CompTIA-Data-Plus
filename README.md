@@ -268,6 +268,16 @@ Derived Variables: These are new variables created from existing ones, typically
    * Develop Dashboard: This is the stage where the actual creation of the dashboard takes place. It involves coding, setting up data connections, and integrating all the elements as per the design.
    * Deploy to Production: This is the final stage, where the completed dashboard is made live or released into the operational environment for end users to interact with. This step may also involve user training and the creation of supporting documentation.
 
+* Delivery Considerations: These refer to how the data dashboard or report is made available to its end users. This can affect how easily users can access and interact with the data.
+   * Subscription: This is a method of delivery where users receive updates or new data automatically on a set schedule, often via email.
+   * Scheduled Delivery: This refers to delivering reports or data updates at pre-determined times. This can be useful for ensuring users always have the most recent data.
+   * Interactive (drill down/roll up): Interactive dashboards allow users to click on elements to see more detail (drill down) or less detail (roll up).
+     * Saved Searches: This feature allows users to save specific queries or filters for future use.
+     * Filtering: This is a feature that lets users narrow down the data they're viewing based on certain criteria.
+     * Static: This refers to a dashboard or report that doesn't change or update. Static reports are often used for official documents or records.
+     * Web Interface: This is a way of accessing the dashboard through a web browser, making it accessible from any device with internet access.
+     * Dashboard Optimization: This involves improving the performance and usability of a dashboard. It can involve reducing load times, improving data visualization, or simplifying navigation.
+     * Access Permissions: These determine who can view or interact with the dashboard. This is important for maintaining data security and ensuring that users only see the data they need.
 ### 4.4 Given a scenario, apply the appropriate type of visualization
 
 ### 4.5 Compare and contrast types of reports
