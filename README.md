@@ -259,6 +259,15 @@ Derived Variables: These are new variables created from existing ones, typically
      * General Public: Members of the public, who may require high-level data presented in a straightforward, easy-to-understand manner.
      * Technical Experts: These are people with expertise in a specific field or area, who may need detailed, specialized data.
 
+* Development Process: This refers to the steps involved in creating a data dashboard, or any other digital product. It typically involves stages of planning, designing, developing, testing, and deploying.
+   * Mockup/Wireframe: This is a basic visual guide used to suggest the layout and placement of elements in a dashboard. It serves as the blueprint for the design.
+     * Layout/Presentation: This refers to the arrangement of elements on the dashboard, including where charts, tables, and other data visualizations will be placed.
+     * Flow/Navigation: This refers to how a user moves through the dashboard, including how they interact with the data and switch between different views or screens.
+     * Data Story Planning: This involves deciding how data will be presented and interpreted to tell a coherent and meaningful story.
+   * Approval Granted: This is the stage at which stakeholders or decision-makers give their consent to proceed with the development of the dashboard as per the agreed design.
+   * Develop Dashboard: This is the stage where the actual creation of the dashboard takes place. It involves coding, setting up data connections, and integrating all the elements as per the design.
+   * Deploy to Production: This is the final stage, where the completed dashboard is made live or released into the operational environment for end users to interact with. This step may also involve user training and the creation of supporting documentation.
+
 ### 4.4 Given a scenario, apply the appropriate type of visualization
 
 ### 4.5 Compare and contrast types of reports
