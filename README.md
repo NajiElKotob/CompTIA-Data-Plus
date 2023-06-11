@@ -221,6 +221,20 @@ Derived Variables: These are new variables created from existing ones, typically
    * Instructions: In the context of a report cover page, instructions may refer to guidelines for how the report should be read or used. For example, it might include notes on terminology, how to interpret charts or graphs, or instructions for providing feedback.
    * Summary: This is a brief overview of the report's main findings, conclusions, or recommendations. It's typically written for readers who may not have time to read the entire report but need to understand the key points.
      * Observations and Insights: These are the significant findings or understandings gained from the analysis of the data. Observations might point out notable patterns or trends in the data, while insights provide deeper understanding, often explaining why these patterns exist or suggesting potential actions in response to these findings.
+
+* Design Elements: These are the components used in the creation of a report, chart, or other visual display of data. They help to ensure the output is clear, visually pleasing, and easy to understand.
+   * Color Schemes: These are combinations of colors used in a design. In a report or chart, a color scheme can help differentiate data points or categories and guide the viewer's eye.
+   * Layout: This refers to the arrangement of elements on a page or screen. A well-designed layout can make a report easier to read and understand.
+   * Font Size and Style: These elements affect the readability of text in a design. The right font size and style can make a report look professional and can emphasize key points.
+   * Key Chart Elements: These are the parts of a chart that help viewers understand the data being presented.
+     * Titles: These provide a concise description of what the chart is about.
+     * Labels: These are used to identify the data points, categories, or axes in a chart.
+     * Legends: A legend explains the symbols, colors, or lines used in the chart.
+   * Corporate Reporting Standards/Style Guide: This is a set of guidelines for how company documents should be presented. It helps ensure consistency across different reports or presentations.
+     * Branding: This refers to the distinctive design elements that represent a company, such as color schemes, logos, or specific fonts.
+     * Color Codes: These are specific colors associated with a company's brand.
+     * Logos/Trademarks: These are distinctive symbols or designs that identify a company or brand.
+     * Watermark: A watermark is a faint design made in some paper during manufacture, which is visible when held against the light and typically identifies the maker. In the context of a report, it can be a light image or text placed behind the content for branding or security purposes.
 ### 4.3 Given a scenario, use appropriate methods for dashboard development
 ### 4.4 Given a scenario, apply the appropriate type of visualization
 ### 4.5 Compare and contrast types of reports
