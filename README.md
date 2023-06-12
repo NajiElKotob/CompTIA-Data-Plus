@@ -347,15 +347,19 @@ Dynamic reports can change in real time as data updates. They often allow intera
 -----
 ## 5.0 Data Governance, Quality, and Controls
 ### 5.1 Summarize important data governance concepts
+`Data encryption | Data transmission | De-identify data/data masking`
 * Access Requirements: These are rules or conditions that determine who can access certain data or systems. They are often used to ensure data security and privacy.
    * Role-Based: In role-based access control, permissions are assigned based on the user's role within an organization. For instance, a manager might have access to more data or systems than an entry-level employee.
    * User Group-Based: User group-based access involves assigning permissions to groups of users. For instance, the marketing team might have access to different systems or data than the engineering team.
    * Data Use Agreements: These are agreements that specify how data can be used, who can use it, and for what purpose. They often include requirements for protecting the privacy and security of the data.
    * Release Approvals: These are processes or steps that must be completed before data or a system can be released or made accessible. They often involve reviews or checks to ensure data accuracy, security, and compliance with regulations or standards.
-#### Security requirements
-`Data encryption | Data transmission | De-identify data/data masking`
-* [Guidelines for Media Sanitization](https://csrc.nist.gov/publications/detail/sp/800-88/rev-1/final) - nist.gov
-* [Security Breach Notification Laws](https://www.ncsl.org/technology-and-communication/security-breach-notification-laws) - ncsl.org
+
+* Security Requirements: These are measures taken to protect data from unauthorized access, alteration, or destruction. They are critical to maintaining data integrity, privacy, and compliance with regulations.
+   * Data Encryption: This is the process of converting data into a code to prevent unauthorized access. Encrypted data can only be accessed or decrypted with the correct encryption key.
+   * Data Transmission: This refers to the methods and protocols used to transfer data from one location to another. Secure data transmission often involves encryption to protect the data while it's in transit.
+   * De-Identify Data/Data Masking: De-identifying data involves removing or obscuring personally identifiable information (PII) to protect individual privacy. Data masking is a method of de-identification that replaces real data with fictional or scrambled data, while maintaining the data's usefulness for analysis or testing.
+   * [Guidelines for Media Sanitization](https://csrc.nist.gov/publications/detail/sp/800-88/rev-1/final) - nist.gov
+   * [Security Breach Notification Laws](https://www.ncsl.org/technology-and-communication/security-breach-notification-laws) - ncsl.org
 
 #### Entity relationship requirements
 *  The [cardinality](https://www.thedataschool.co.uk/eamonn-woodham/high-cardinality-vs-low-cardinality/) of a column refers to the number of distinct values that the column can take on. A column with high cardinality has a large number of distinct values, while a column with low cardinality has a small number of distinct values.
