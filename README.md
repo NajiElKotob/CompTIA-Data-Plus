@@ -366,6 +366,12 @@ Dynamic reports can change in real time as data updates. They often allow intera
    * Cloud-Based Storage: This refers to storing data on remotely located servers accessed via the internet, which are maintained by a third-party provider. It's scalable, accessible from anywhere, and offers various levels of security.
    * Local Storage: This refers to storing data directly on the device being used to access it, such as the hard drive of a computer. It offers quick access and control but can be limited in space and is subject to the physical security of the device.
 
+* Use Requirements: These are guidelines and rules that define how data can be used, manipulated, and managed within an organization or system. They help ensure data integrity, security, and compliance with laws or regulations.
+   * Acceptable Use Policy: This is a policy that sets out what is considered acceptable behavior by users of a network or system. It often includes rules regarding data security, privacy, and misuse of resources.
+   * Data Processing: This refers to the actions and methods applied to data to convert it from raw data into meaningful information. It can include collecting, organizing, transforming, and analyzing data.
+   * Data Deletion: This is the process of permanently removing data from a storage medium. It is often done to save space, protect privacy, or comply with data retention policies or regulations.
+   * Data Retention: This refers to policies or practices that determine how long data is kept before it is deleted or archived. It is often guided by legal requirements, business needs, or data management practices.
+
 #### Entity relationship requirements
 *  The [cardinality](https://www.thedataschool.co.uk/eamonn-woodham/high-cardinality-vs-low-cardinality/) of a column refers to the number of distinct values that the column can take on. A column with high cardinality has a large number of distinct values, while a column with low cardinality has a small number of distinct values.
 *  Data classification
