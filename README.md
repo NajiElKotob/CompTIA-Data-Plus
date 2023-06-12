@@ -376,9 +376,18 @@ Dynamic reports can change in real time as data updates. They often allow intera
    * Record Link Restrictions: These are rules or conditions that govern how and when records can be linked or related to one another. They may be used to ensure data integrity and consistency.
    * Data Constraints: These are rules that restrict the type, range, or format of data that can be entered into a database. For instance, a constraint might require that a field contain only numbers, or that a field must always be filled in.
    * The [cardinality](https://www.thedataschool.co.uk/eamonn-woodham/high-cardinality-vs-low-cardinality/) of a column refers to the number of distinct values that the column can take on. A column with high cardinality has a large number of distinct values, while a column with low cardinality has a small number of distinct values.
-   *  Data classification
+
+* Data Classification: This is the process of categorizing data based on its level of sensitivity, value, and criticality. This helps in efficient use and protection of data.
+   *  Personally Identifiable Information (PII): This is any information that can be used to identify an individual. Examples of PII include names, social security numbers, and addresses. It's often subject to strict privacy laws and regulations.
+   *  Personal Health Information (PHI): This refers to any information about health status, provision of health care, or payment for health care that can be linked to a specific individual. It's protected under privacy laws such as the Health Insurance Portability and Accountability Act (HIPAA) in the U.S.
+   *  Payment Card Industry (PCI): This refers to the regulatory standards established by the Payment Card Industry Security Standards Council to protect credit cardholder data.
+   *  Data classification samples
       *  Business Classification: Public, Internal, Sensitive, Highly Sensitive
       *  Military Classifiation: Unclassified, Classified, Secret, Top Secret
+* Jurisdiction Requirements: These are legal obligations that vary depending on the location where data is held, processed, or transferred. They can be shaped by industry and governmental regulations.
+   *  Impact of Industry and Governmental Regulations: These are the effects that laws, rules, and regulations can have on how data must be handled. This can influence data storage, transfer, and privacy measures.
+* Data Breach Reporting: This is the process of informing appropriate authorities, such as regulatory bodies, about a data breach. Reporting requirements can vary by jurisdiction, but often include a description of the breach, the types of data involved, and the response to the breach.
+   *  Escalate to Appropriate Authority: In the event of a data breach, escalation involves notifying the relevant individuals or teams within an organization who are responsible for responding to the breach. This can include IT teams, management, and legal departments.
 
 ### 5.2 Given a scenario, apply data quality control concepts
 #### Automated Validation
