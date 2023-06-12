@@ -372,11 +372,13 @@ Dynamic reports can change in real time as data updates. They often allow intera
    * Data Deletion: This is the process of permanently removing data from a storage medium. It is often done to save space, protect privacy, or comply with data retention policies or regulations.
    * Data Retention: This refers to policies or practices that determine how long data is kept before it is deleted or archived. It is often guided by legal requirements, business needs, or data management practices.
 
-#### Entity relationship requirements
-*  The [cardinality](https://www.thedataschool.co.uk/eamonn-woodham/high-cardinality-vs-low-cardinality/) of a column refers to the number of distinct values that the column can take on. A column with high cardinality has a large number of distinct values, while a column with low cardinality has a small number of distinct values.
-*  Data classification
-   *  Business Classification: Public, Internal, Sensitive, Highly Sensitive
-   *  Military Classifiation: Unclassified, Classified, Secret, Top Secret
+* Entity Relationship Requirements: These are rules and conditions that govern how different entities (such as tables in a database) relate to one another. They often involve identifiers, constraints, and relationships between entities.
+   * Record Link Restrictions: These are rules or conditions that govern how and when records can be linked or related to one another. They may be used to ensure data integrity and consistency.
+   * Data Constraints: These are rules that restrict the type, range, or format of data that can be entered into a database. For instance, a constraint might require that a field contain only numbers, or that a field must always be filled in.
+   * The [cardinality](https://www.thedataschool.co.uk/eamonn-woodham/high-cardinality-vs-low-cardinality/) of a column refers to the number of distinct values that the column can take on. A column with high cardinality has a large number of distinct values, while a column with low cardinality has a small number of distinct values.
+   *  Data classification
+      *  Business Classification: Public, Internal, Sensitive, Highly Sensitive
+      *  Military Classifiation: Unclassified, Classified, Secret, Top Secret
 
 ### 5.2 Given a scenario, apply data quality control concepts
 #### Automated Validation
