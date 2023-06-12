@@ -361,6 +361,11 @@ Dynamic reports can change in real time as data updates. They often allow intera
    * [Guidelines for Media Sanitization](https://csrc.nist.gov/publications/detail/sp/800-88/rev-1/final) - nist.gov
    * [Security Breach Notification Laws](https://www.ncsl.org/technology-and-communication/security-breach-notification-laws) - ncsl.org
 
+* Storage Environment Requirements: These are considerations and conditions that determine where and how data is stored. They often involve a balance between accessibility, security, cost, and data volume.
+   * Shared Drive: A shared drive is a server that allows multiple users to store and access files. It's often used in networked office environments to enable collaboration.
+   * Cloud-Based Storage: This refers to storing data on remotely located servers accessed via the internet, which are maintained by a third-party provider. It's scalable, accessible from anywhere, and offers various levels of security.
+   * Local Storage: This refers to storing data directly on the device being used to access it, such as the hard drive of a computer. It offers quick access and control but can be limited in space and is subject to the physical security of the device.
+
 #### Entity relationship requirements
 *  The [cardinality](https://www.thedataschool.co.uk/eamonn-woodham/high-cardinality-vs-low-cardinality/) of a column refers to the number of distinct values that the column can take on. A column with high cardinality has a large number of distinct values, while a column with low cardinality has a small number of distinct values.
 *  Data classification
