@@ -84,6 +84,7 @@ There are several strategies or "types" for managing Slowly Changing Dimensions 
 * Missing Values
    *  [Concepts of MCAR, MAR and MNAR](https://stefvanbuuren.name/fimd/sec-MCAR.html) - stefvanbuuren.name
    * In statistics and data science, replacing missing values with the mean value of the remaining data in the variable is a form of **imputation**, which is a general term for techniques used to estimate and replace missing data with substituted values. 
+   * [Flexible Imputation of Missing Data](https://stefvanbuuren.name/fimd/sec-historic.html) 🌟 - stefvanbuuren.name
 * **Capping** in the context of data analysis is a method used to limit or "cap" extreme values in a dataset in order to reduce the impact of outliers. This method is also known as "winsorizing" or "truncation".
 * Duplicate Data: This refers to data entries that are repeated in the dataset. Duplicates can occur for various reasons, such as errors during data entry or merging datasets.
 * Redundant Data: This refers to data that is repeated or not needed, and doesn't provide additional information. It often results from poor database design or the lack of normalization in the database.
