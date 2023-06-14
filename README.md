@@ -401,6 +401,23 @@ Dynamic reports can change in real time as data updates. They often allow intera
 * Automated Validation:
    * Data Field to Data Type Validation: This involves checking that each data field contains the expected type of data (i.e., text, number, date), ensuring consistency and reducing the chances of processing errors.
    * Number of Data Points: This refers to the total count of individual pieces of information collected in a dataset. An automated validation here would confirm the expected number of data points has been received or processed, helping to identify any missing or extra data.
+* Data Quality Dimensions
+   * Data Consistency: This dimension measures whether data is uniformly represented across the entire dataset. Consistent data adheres to a uniform format, making it easier to compare and analyze.
+   * Data Accuracy: This dimension gauges how closely the data in the dataset matches the true or real-world values. Accuracy is vital for analysis, as inaccurate data can lead to misleading conclusions.
+   * Data Completeness: This checks whether all necessary data is present in the dataset. Incomplete data can cause bias in the analysis and may lead to incorrect conclusions.
+   * Data Integrity: This refers to the overall correctness, coherence, and wholeness of data. It assesses if data is unaltered from its source and has not been corrupted during storage, retrieval, or processing.
+   * Data Attribute Limitations: This refers to the constraints or restrictions placed on the values that specific data attributes can take.
+* Data Quality Rule and Metrics
+   * Conformity: This metric measures the level to which data adheres to the defined business rules or standards, helping ensure it is fit for use.
+   * Non-Conformity: This metric identifies instances where data fails to adhere to the predefined standards or rules, indicating potential data quality issues.
+   * Rows Passed: This is a count of the number of data records that have passed all the defined quality checks, meeting the required standards.
+   * Rows Failed: This counts the number of data records that have not passed the defined quality checks, indicating a potential problem with the data.
+* Methods to Validate Quality
+   * Cross-Validation: This is a statistical method for assessing how the results of a statistical analysis will generalize to an independent data set, often used in machine learning to validate models.
+   * Sample/Spot Check: This method involves checking a random sample of data to ensure it meets quality standards, providing a quick, high-level assessment of data quality.
+   * Reasonable Expectations: This method uses domain knowledge to predict what the data should look like. It then verifies whether the actual data aligns with these predictions.
+   * Data Profiling: This is the process of examining data from an existing source and summarizing it using statistical analysis and data visualization techniques to check its quality and condition.
+   * Data Audits: This involves a comprehensive review of a dataset to assess its quality and accuracy, identify any issues, and propose solutions to correct these issues. It's a more thorough approach to validating data quality.
 
 ### 5.3 Explain master data management (MDM) concepts
 #### Processes
