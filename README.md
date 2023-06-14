@@ -460,3 +460,26 @@ Dynamic reports can change in real time as data updates. They often allow intera
 * SDLC Software Development Life Cycle
 * SQL Structured Query Language
 * XML Extensible Markup Language
+
+_Extra_
+* AI: Artificial Intelligence
+* ML: Machine Learning
+* DL: Deep Learning
+* NLP: Natural Language Processing
+* IoT: Internet of Things
+* EDA: Exploratory Data Analysis
+* SaaS: Software as a Service
+* PaaS: Platform as a Service
+* IaaS: Infrastructure as a Service
+* DBMS: Database Management System
+* HDFS: Hadoop Distributed File System
+* FTP: File Transfer Protocol
+* GUI: Graphical User Interface
+* UX: User Experience
+* UI: User Interface
+* HTTPS: Hypertext Transfer Protocol Secure
+* CSV: Comma-Separated Values
+* GB: Gigabyte
+* TB: Terabyte
+* API: Application Programming Interface
+* GDPR: General Data Protection Regulation
