@@ -434,32 +434,32 @@ Dynamic reports can change in real time as data updates. They often allow intera
 -----
 
 ## Acronyms
-* ANOVA Analysis of Variance
-* API Application Programming Interface
-* AWS Amazon Web Services
-* BI Business Intelligence
-* CRM Customer Relationship Management
-* CSV Comma-separated Values
-* ELT Extract, Load, Transform
-* ETL Extract, Transform, Load
-* FAQs Frequently Asked Questions
-* GDPR General Data Protection Regulation
-* HTML Hypertext Markup Language
-* JSON JavaScript Object Notation
-* KPI Key Performance Indicator
-* MDM Master Data Management
-* NoSQL Not Only Structured Query Language
-* OLAP Online Analytical Processing
-* OLTP Online Transaction Processing
-* P&L Profit and Loss
-* PCI Payment Card Industry
-* PDF Portable Document Format
-* PHI Personal Health Information
-* PII Personally Identifiable Information
-* RDBMS Relational Database Management System
-* SDLC Software Development Life Cycle
-* SQL Structured Query Language
-* XML Extensible Markup Language
+* ANOVA: Analysis of Variance
+* API: Application Programming Interface
+* AWS: Amazon Web Services
+* BI: Business Intelligence
+* CRM: Customer Relationship Management
+* CSV: Comma-separated Values
+* ELT: Extract, Load, Transform
+* ETL: Extract, Transform, Load
+* FAQs: Frequently Asked Questions
+* GDPR: General Data Protection Regulation
+* HTML: Hypertext Markup Language
+* JSON: JavaScript Object Notation
+* KPI: Key Performance Indicator
+* MDM: Master Data Management
+* NoSQL: Not Only Structured Query Language
+* OLAP: Online Analytical Processing
+* OLTP: Online Transaction Processing
+* P&L: Profit and Loss
+* PCI: Payment Card Industry
+* PDF: Portable Document Format
+* PHI: Personal Health Information
+* PII: Personally Identifiable Information
+* RDBMS: Relational Database Management System
+* SDLC: Software Development Life Cycle
+* SQL: Structured Query Language
+* XML: Extensible Markup Language
 
 _Extra_
 * AI: Artificial Intelligence
@@ -481,5 +481,3 @@ _Extra_
 * CSV: Comma-Separated Values
 * GB: Gigabyte
 * TB: Terabyte
-* API: Application Programming Interface
-* GDPR: General Data Protection Regulation
