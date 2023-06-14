@@ -391,8 +391,16 @@ Dynamic reports can change in real time as data updates. They often allow intera
    *  Escalate to Appropriate Authority: In the event of a data breach, escalation involves notifying the relevant individuals or teams within an organization who are responsible for responding to the breach. This can include IT teams, management, and legal departments.
 
 ### 5.2 Given a scenario, apply data quality control concepts
-#### Automated Validation
-* The **number of data points** is simply a count of all the measurements or observations within your data set. This is an important concept in statistical analysis, where the number of data points can affect everything from the reliability of your results to the types of analysis you can perform.
+* Circumstances to check for quality
+   * Data Acquisition/Data Source: Refers to the process and origins of collecting data. Quality checks here ensure the source is credible, reliable, and that the data is complete, accurate, and relevant.
+   * Data Transformation/Intrahops:
+     * Pass-through: A scenario where data is transferred from one system to another without any modifications. Quality checks ensure the integrity and accuracy of the data during this process.
+     * Conversion: A process in which data is changed from one form to another, such as from one format to another or one unit to another. Quality checks here ensure that the conversion process doesn't distort the data's original meaning or value.
+   * Data Manipulation: This refers to the process of adjusting data to make it suitable for further analysis or processing. Quality checks involve ensuring data has been manipulated correctly and appropriately, maintaining its integrity and relevance.
+   * Final Product (Report/Dashboard, etc.): This refers to the end result of data processing and analysis, often presented in a visual format for ease of understanding. Quality checks here ensure that the final product is accurate, clear, relevant, and provides valuable insights.
+* Automated Validation:
+   * Data Field to Data Type Validation: This involves checking that each data field contains the expected type of data (i.e., text, number, date), ensuring consistency and reducing the chances of processing errors.
+   * Number of Data Points: This refers to the total count of individual pieces of information collected in a dataset. An automated validation here would confirm the expected number of data points has been received or processed, helping to identify any missing or extra data.
 
 ### 5.3 Explain master data management (MDM) concepts
 #### Processes
