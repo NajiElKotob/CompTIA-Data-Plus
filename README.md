@@ -25,7 +25,7 @@
 
 #### Data mart/data warehousing/data lake
 `OLTP | OLAP`
-* Online Transactional Processing (OLTP): OLTP refers to the real-time processing of transaction-based applications, typically associated with relational databases and business applications. OLTP systems prioritize fast, reliable, and consistent transactions and support a large number of short on-line transactions such as INSERT, UPDATE, DELETE. Examples include order entry, retail sales, and financial transaction systems.
+* Online Transactional Processing (OLTP): OLTP refers to the real-time processing of transaction-based applications, typically associated with relational databases and business applications. OLTP systems prioritize fast, reliable, and consistent transactions and support a large number of short on-line transactions such as INSERT, UPDATE, DELETE. Examples include order entry, retail sales, and financial transaction systems. Learn more [Online transaction processing (OLTP) - Microsoft](https://learn.microsoft.com/en-us/azure/architecture/data-guide/relational-data/online-transaction-processing)
 * Online Analytical Processing (OLAP): OLAP, on the other hand, refers to complex analysis of data, often originating from various sources. OLAP systems are optimized for read-heavy scenarios and facilitate multi-dimensional analytical queries (like aggregation and drill-down), enabling users to analyze data from multiple dimensions. These systems are typically used in business intelligence and data warehousing scenarios.
 
 #### Schema concepts
