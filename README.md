@@ -125,6 +125,8 @@ Derived Variables: These are new variables created from existing ones, typically
 #### Query optimization
 * Query Optimization: This is a function of the database management system where it attempts to determine the most efficient way to execute a given query by considering the different query plans.
 * Parametrization: In the context of databases, it's a way of structuring a query to avoid SQL injection attacks and optimize query execution. Instead of directly embedding values, placeholders are used which are then supplied at execution time.
+  - _learn more_
+    - [SQL Injection Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html)
 * Indexing: An index is a data structure that improves the speed of data retrieval operations on a database. It's similar to the index at the back of a book, allowing the database to find data without having to scan every row in a table.
   - _learn more_
     - [SQL Server and Azure SQL index architecture and design guide](https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-index-design-guide?view=sql-server-ver16)
